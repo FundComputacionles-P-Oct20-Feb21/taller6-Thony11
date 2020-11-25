@@ -1,0 +1,12 @@
+1.Inicio
+2.estudiante, x(20)
+3.nota, i[0,n]
+4.Escribir"Ingrese nombre del estudiante"
+5.Leer estudiante
+6.Escribir"Ingrese la nota del estudiante"
+7.Si(nota <= 7) entonces
+8.Escribir <--- reprobado
+9.De lo contrario
+10.Escribir <--- aprovado
+11.Fin si
+12.Fin
